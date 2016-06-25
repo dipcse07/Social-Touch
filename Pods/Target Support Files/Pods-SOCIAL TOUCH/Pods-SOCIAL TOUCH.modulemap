@@ -1,0 +1,6 @@
+framework module Pods_SOCIAL_TOUCH {
+  umbrella header "Pods-SOCIAL TOUCH-umbrella.h"
+
+  export *
+  module * { export * }
+}
